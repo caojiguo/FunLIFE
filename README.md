@@ -1,4 +1,4 @@
-# The R codes for simulation studies and real data analysis in the manuscript entitled ``Multi-Resolutional Panel Data Models with Interactive Fixed Effects". 
+# The R codes for simulation studies and real data analysis in the manuscript entitled "Multi-Resolutional Panel Data Models with Interactive Fixed Effects". 
 
 ###########################################################
 
